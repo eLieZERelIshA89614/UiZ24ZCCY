@@ -106,7 +106,6 @@ module.exports = function(grunt) {
             style: 'compressed'
           },
           files: {
-            'assets/css/main.css': 'assets/sass/main.scss'
           }
         },
         dev: {
