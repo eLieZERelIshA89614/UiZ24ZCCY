@@ -4,7 +4,6 @@
 %           [R1, R2, t1, t2] = PoseEMat(E)
 %
 % Input:
-%           E   : essential matrix
 %
 % Output:
 %           R1  : 3x3 rotation matrix 1
