@@ -25,7 +25,6 @@ ij_editorconfig_spaces_around_assignment_operators = true
 [{*.ant, *.fxml, *.jhm, *.jnlp, *.jrxml, *.rng, *.tld, *.wsdl, *.xml, *.xsd, *.xsl, *.xslt, *.xul, phpunit.xml.dist}]
 ij_xml_align_attributes = true
 ij_xml_align_text = false
-ij_xml_attribute_wrap = normal
 ij_xml_block_comment_at_first_column = true
 ij_xml_keep_blank_lines = 2
 ij_xml_keep_indents_on_empty_lines = false
