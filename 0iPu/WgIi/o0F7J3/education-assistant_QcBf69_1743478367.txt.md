@@ -33,7 +33,6 @@ Do you want to contribute to this project? Make sure to read this guidelines fir
 
 
 ## Showcase your PrAIvateSearch
-
 **When to do it**:
 
 - You modified the base application with new features but you don't want/can't merge them with the original PrAIvateSearch
